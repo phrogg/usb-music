@@ -64,6 +64,7 @@ Tested on platform_picroft (others untested)
 - SSH and run:
 ```
 pip install pyudev
+pip install mutagen
 sudo apt-get install vlc
 sudo reboot
 msm remove https://github.com/pcwii/usb-music.git
