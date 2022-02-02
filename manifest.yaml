@@ -1,5 +1,6 @@
 dependencies:
   system:
+    all: vlc
     apt-get: vlc
 
   python:
