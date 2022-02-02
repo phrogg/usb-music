@@ -5,4 +5,4 @@ dependencies:
 
   python:
     - pyudev
-    - mutagen
+    - mutagen==1.45.1
